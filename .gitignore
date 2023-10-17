@@ -1,0 +1,14 @@
+
+Data
+Playgrounds
+Tests
+Scripts
+SaveVideos
+Visualizations
+*.pyc
+Weights
+MISC/VideoGPTDownloads.py
+model_output.avi
+model_output.mp4
+*.cfg
+UnetV2BestWeights_TextConditioned.pth
