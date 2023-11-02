@@ -34,21 +34,11 @@ Before running the code, make sure you have the following prerequisites:
 git clone https://github.com/Jaso1024/REGIS.git
 ```
 
-2. Install the required dependencies using pip.
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Download the [UCF101 dataset](https://www.crcv.ucf.edu/data/UCF101.php)
+2. Download the [UCF101 dataset](https://www.crcv.ucf.edu/data/UCF101.php)
 
 ## Usage
 
-Provide detailed instructions on how to use the code to reproduce the experiments mentioned in the paper. Include information on data preprocessing, model training, and evaluation.
-
-```bash
-python main.py --args
-```
+All training files are located in the Training folder, and Models in the Models folder. To train one of the models, select a model to train and run to the corresponding training file in the Training folder.
 
 ## Results
 
