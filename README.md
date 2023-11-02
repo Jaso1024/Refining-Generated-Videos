@@ -22,9 +22,14 @@ In recent years, generative models have made impressive advancements towards rea
 Before running the code, make sure you have the following prerequisites:
 
 - Python 3.x
-- TensorFlow
 - PyTorch
-- Other dependencies (specified in requirements.txt)
+- Torchsummary
+- Opencv
+- Tqdm
+- Imageio
+- Numpy
+- Peft
+- Matplotlib 
 
 ## Installation
 
