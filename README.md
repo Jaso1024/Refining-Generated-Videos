@@ -59,7 +59,7 @@ The results obtained from the experiments are as follows:
 | REGIS-Fuse, I=8  | 125.32 ± 6                         |
 
 
-REGIS-UI=2 achieved the best performance, reducing the FVD to 115.36 ± 6, a noticeable improvement over the baseline VideoFusion model.
+REGIS-U achieved the best performance, reducing the FVD to 115.36 ± 6, a noticeable improvement over the baseline VideoFusion model.
 
 ### Improved Fidelity for High-Movement Videos
 
