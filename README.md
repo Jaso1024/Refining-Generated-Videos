@@ -1,6 +1,6 @@
-# REGIS: Refining Generated Videos via Iterative Stylistic Redesigning
+# IEEE 2023 | REGIS: Refining Generated Videos via Iterative Stylistic Redesigning
 
-#### Accepted to IEEE
+
 
 This repository contains the code and supplementary materials for the research paper titled "REGIS: Refining Generated Videos via Iterative Stylistic Redesigning." This research explores a novel approach to enhance the quality of videos generated from textual descriptions. The proposed method, known as REGIS, refines generated videos through iterative processes, resulting in improved video fidelity and reduced spatio-temporal noise.
 
