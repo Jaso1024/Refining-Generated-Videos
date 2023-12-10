@@ -3,6 +3,8 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/regis-refining-generated-videos-via-iterative/text-to-video-generation-on-ucf-101)](https://paperswithcode.com/sota/text-to-video-generation-on-ucf-101?p=regis-refining-generated-videos-via-iterative)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/regis-refining-generated-videos-via-iterative/video-generation-on-ucf-101)](https://paperswithcode.com/sota/video-generation-on-ucf-101?p=regis-refining-generated-videos-via-iterative)
 
+#### Accepted to the 2023 International Workshop on Artificial Intelligence and Image Processing
+
 This repository contains the code and supplementary materials for [REGIS: Refining Generated Videos via Iterative Stylistic Redesigning](https://doi.org/10.21203/rs.3.rs-3541408/v1). This research explores a novel approach to enhance the quality of videos generated from textual descriptions. The proposed method, known as REGIS, refines generated videos through iterative processes, resulting in improved video fidelity and reduced spatio-temporal noise.
 
 
