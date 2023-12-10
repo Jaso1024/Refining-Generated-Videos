@@ -38,7 +38,7 @@ Before running the code, make sure you have the following prerequisites:
 1. Clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/Jaso1024/REGIS.git
+git clone https://github.com/Jaso1024/Refining-Generated-Videos.git
 ```
 
 2. Download the [UCF101 dataset](https://www.crcv.ucf.edu/data/UCF101.php)
