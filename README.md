@@ -1,6 +1,5 @@
 # REGIS: Refining Generated Videos via Iterative Stylistic Redesigning
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/regis-refining-generated-videos-via-iterative/text-to-video-generation-on-ucf-101)](https://paperswithcode.com/sota/text-to-video-generation-on-ucf-101?p=regis-refining-generated-videos-via-iterative)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/regis-refining-generated-videos-via-iterative/video-generation-on-ucf-101)](https://paperswithcode.com/sota/video-generation-on-ucf-101?p=regis-refining-generated-videos-via-iterative)
 
 #### Accepted to the 2023 International Workshop on Artificial Intelligence and Image Processing
